@@ -5,3 +5,13 @@ http://localhost:8080/team/Chennai%20Super%20Kings/
 
 
 http://localhost:8080/team/
+
+
+
+#package.json (react app)
+
+There xcopy used to move all react-related build files to the Spring Boot application. So that it makes to one app to deploy instead of deploying both React App and Spring boot App.
+
+xcopy - windows
+
+rsync  - MAC

@@ -1,5 +1,5 @@
 import './App.css';
-import {BrowserRouter as Router,Route,Switch} from 'react-router-dom';
+import {HashRouter as Router,Route,Switch} from 'react-router-dom';
 import { TeamPage } from './Pages/TeamPage';
 import { MatchPage } from './Pages/MatchPage';
 import { HomePage } from './Pages/HomePage';
